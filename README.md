@@ -1,66 +1,69 @@
-# Hi, I'm Avishka Dinesh 👋
+# Hey, I'm Avishka Dinesh 👋
 
-**Software Engineering Undergraduate | Full-Stack Developer | Former Software Engineering Intern**
+**Software Engineering Undergraduate | Full-Stack Developer**
 
-I'm an Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), with six months of software engineering internship experience at Optimize Solutions.
+I'm an Information Technology undergraduate at **SLIIT**, with six months of industry experience as a **Software Engineering Intern at Optimize Solutions**.
 
-I enjoy developing full-stack web applications, designing RESTful APIs, working with databases, and exploring scalable backend architectures. I'm also interested in applying AI and machine learning to real-world problems.
+I enjoy building full-stack applications, designing RESTful APIs, and developing backend systems. I'm passionate about creating practical software solutions and continuously improving my engineering skills.
 
-📍 Colombo, Sri Lanka  
-💼 Open to Associate Software Engineer and Junior Full-Stack Developer opportunities
+- 📍 Based in Colombo, Sri Lanka
+- 💼 Open to Associate Software Engineer & Junior Developer opportunities
+- 🌱 Currently exploring scalable backend architectures and modern development practices
+
+---
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java, Python, SQL
+**Languages**  
+JavaScript · TypeScript · Java · Python · SQL
 
-**Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
+**Frontend**  
+React.js · Next.js · HTML · CSS · Tailwind CSS
 
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs
+**Backend**  
+Node.js · Express.js · Spring Boot · REST APIs
 
-**Databases:** MongoDB, MySQL, SQLite
+**Databases & Tools**  
+MongoDB · MySQL · SQLite · Git · GitHub · Postman
 
-**Tools:** Git, GitHub, Postman, Figma
+---
 
 ## Featured Projects
 
-### Smart Campus Operations Hub
+### 01. Smart Campus Operations Hub
+Full-stack campus management system featuring REST APIs, database integration, resource management, and a React frontend.
 
-Full-stack academic project combining a Spring Boot backend with a React and TypeScript frontend.
+**Stack:** Java, Spring Boot, MongoDB, React, TypeScript
 
-**Technologies:** Java, Spring Boot, MongoDB, React, TypeScript
+[View Project →](https://github.com/DineshIllangasinhe/PAF_Smart_Campus_Operations_Hub)
 
-[View Repository](https://github.com/DineshIllangasinhe/PAF_Smart_Campus_Operations_Hub)
+### 02. Full-Stack Task Management System
+Task management application featuring JWT authentication, task CRUD operations, dashboard statistics, and database integration.
 
-### Full-Stack Task Management System
+**Stack:** React, TypeScript, Node.js, Express, Sequelize, SQLite
 
-Web application with task management functionality, authentication, RESTful APIs and database integration.
+[Frontend →](https://github.com/DineshIllangasinhe/task-manager-webapp) | [Backend →](https://github.com/DineshIllangasinhe/task-manager-server)
 
-**Technologies:** React, TypeScript, Node.js, Express, Sequelize, SQLite, JWT
+### 03. Ride Booking Microservices
+Microservices-based backend architecture featuring four independent services, an API Gateway, and Swagger API documentation.
 
-[Frontend](https://github.com/DineshIllangasinhe/task-manager-webapp) | [Backend](https://github.com/DineshIllangasinhe/task-manager-server)
+**Stack:** Node.js, Express.js, REST APIs, Swagger
 
-### Ride Booking Microservices System
+[View Project →](https://github.com/DineshIllangasinhe/MTIT_microservices)
 
-Microservices-based backend with user, driver, booking and payment services connected through an API Gateway and documented using Swagger.
+### 04. AI-Powered Smart Farm
+Collaborative final-year research project focused on intelligent livestock management using AI and machine learning.
 
-**Technologies:** Node.js, Express.js, REST APIs, API Gateway, Swagger
+**My contribution:** Cattle disease detection and emergency alert systems.
 
-[View Repository](https://github.com/DineshIllangasinhe/MTIT_microservices)
+**Stack:** Python, Computer Vision, YOLO, Deep Learning
 
-### AI-Powered Smart Farm
+[View Project →](https://github.com/DineshIllangasinhe/traditional-farm-to-ai-ml-powered-smart-farm)
 
-Collaborative final-year research project focused on applying artificial intelligence to livestock management. My individual research component focuses on cattle disease detection and emergency alerts.
+---
 
-**Technologies:** Python, Computer Vision, YOLO, Deep Learning
+## Let's Connect
 
-[View Repository](https://github.com/DineshIllangasinhe/traditional-farm-to-ai-ml-powered-smart-farm)
+I'm interested in software engineering opportunities, technical collaboration, and building meaningful applications.
 
-## Currently Focusing On
-
-Improving my full-stack development skills, strengthening backend architecture knowledge, and developing production-ready software engineering practices.
-
-## Connect With Me
-
-**LinkedIn:** [linkedin.com/in/avishka-dinesh](https://www.linkedin.com/in/avishka-dinesh/)
-
-**GitHub:** [github.com/DineshIllangasinhe](https://github.com/DineshIllangasinhe)
+**[LinkedIn](https://www.linkedin.com/in/avishka-dinesh/)** · **[GitHub](https://github.com/DineshIllangasinhe)** · **[Email](mailto:avishka.dinesh12345@gmail.com)**
